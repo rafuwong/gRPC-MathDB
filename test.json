@@ -1,0 +1,19 @@
+{
+  "score": 100,
+  "full_score": 100,
+  "tests": {
+    "math_cache_ops": "PASS (10/10)",
+    "math_cache_lru_simple": "PASS (10/10)",
+    "math_cache_lru_complex": "PASS (10/10)",
+    "math_db_grpc": "PASS (10/10)",
+    "math_db_server_simple": "PASS (10/10)",
+    "math_db_server_errors": "PASS (10/10)",
+    "docker_build_run": "PASS (10/10)",
+    "math_db_server_simple_over_grpc": "PASS (5/5)",
+    "math_db_server_errors_over_grpc": "PASS (5/5)",
+    "client_workload_1": "PASS (5/5)",
+    "client_workload_2": "PASS (5/5)",
+    "client_workload_3": "PASS (5/5)",
+    "client_workload_combined": "PASS (5/5)"
+  }
+}
